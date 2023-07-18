@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson_5_1</string>
+    <string name="register">REGISTER</string>
+    <string name="user">Имя пользователя</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="NEXT">NEXT</string>
+</resources>
